@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Josip\documents\visual studio 2015\Projects\minesweeper\minesweeper\bin\x64\Release\minesweeper_1.0.0.0_x64.appx
+SymbolPackage=C:\Users\Josip\documents\visual studio 2015\Projects\minesweeper\minesweeper\AppPackages\minesweeper_1.0.0.0_Test\minesweeper_1.0.0.0_x64.appxsym
